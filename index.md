@@ -5,4 +5,4 @@
 ##### Title 5
 ###### Title 6
 
-first commit
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
